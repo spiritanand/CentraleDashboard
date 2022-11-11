@@ -1,0 +1,16 @@
+@import url('https://cdn.syncfusion.com/ej2/material.css');
+
+.CircularProgressbar {
+    width: 100px !important;
+    margin: 1rem auto;
+}
+
+.navbar {
+    z-index: 10000;
+}
+
+@media screen and (max-width: 800px) {
+    .sidebar {
+        z-index: 100000;
+    }
+}
